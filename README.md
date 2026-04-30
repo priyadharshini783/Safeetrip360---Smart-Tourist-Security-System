@@ -44,7 +44,7 @@ Note: You must add your own google-services.json file to the app/ folder to enab
 
 <p align="center">
   <img src=""C:\Users\adthi\Downloads\bdy\APP DASHBOARD.png"" width="250" />
-  <img src=""C:\Users\adthi\Pictures\Screenshots\Screenshot 2026-02-17 112312.png"" width="250" /> 
+  <img src="""C:\Users\adthi\Downloads\bdy\SOS TRIGGERED.png""" width="250" /> 
   <img src=""C:\Users\adthi\Pictures\Screenshots\Screenshot 2026-02-16 203723.png"" width="250" />
 </p>
 
